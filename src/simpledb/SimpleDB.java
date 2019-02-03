@@ -17,7 +17,6 @@ import java.util.Map;
 public class SimpleDB {
 
     public static ArrayList<String> database = new ArrayList<>(100);
-    public static Map<Integer, Integer> hm = new HashMap<Integer, Integer>();
 
     /**
      * @param args the command line arguments
